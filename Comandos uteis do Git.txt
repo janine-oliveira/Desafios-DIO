@@ -1,0 +1,16 @@
+git init -> cria um repositório
+
+git add * -> move todos os arquivos para stage
+
+git commit -m "mensagem sobre o commit"-> sai de stage -> move para repositório
+
+git status -> mostra o status dos arquivos( modified, stage)
+
+git push origin master -> empurra para o github
+
+git remote -v -> lista os repositórios remotos
+
+git pull origin master -> pucha para a maquina local
+
+git clone url -> clona um repositório do github
+
