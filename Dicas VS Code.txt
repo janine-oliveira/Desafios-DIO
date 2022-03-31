@@ -1,8 +1,10 @@
 Dicas VS Code
 
-links úteis [emmet](https://docs.emmet.io/cheat-sheet/)
+links úteis: 
 
-				[dicas CSS HTML](https://cibersistemas.pt/tecnologia/como-escrever-html-css-mais-rapido-com-codigos-de-trapaca-emmet-no-codigo-vs/)
+emmet -> https://docs.emmet.io/cheat-sheet/)
+
+dicas CSS HTML -> https://cibersistemas.pt/tecnologia/como-escrever-html-css-mais-rapido-com-codigos-de-trapaca-emmet-no-codigo-vs/
 
 
 Comandos:
