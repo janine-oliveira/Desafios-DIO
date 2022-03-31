@@ -6,7 +6,7 @@ git commit -m "mensagem sobre o commit"-> sai de stage -> move para repositório
 
 git status -> mostra o status dos arquivos( modified, stage)
 
-git push origin master -> empurra para o github
+git push origin (master ou main) -> empurra para o github
 
 git remote -v -> lista os repositórios remotos
 
