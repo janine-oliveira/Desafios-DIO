@@ -1,0 +1,32 @@
+Dicas VS Code
+
+links úteis [emmet](https://docs.emmet.io/cheat-sheet/)
+
+				[dicas CSS HTML](https://cibersistemas.pt/tecnologia/como-escrever-html-css-mais-rapido-com-codigos-de-trapaca-emmet-no-codigo-vs/)
+
+
+Comandos:
+
+ALT + posição a ser alterada -> consegue digitar a mesma coisa em varios varios lugares ao msm tempo
+
+CTRL + f -> subsituir 
+
+html:5 -> cria uma estrutura HTML
+
+div*2 -> cria duas tags <div>
+
+div#nome_id -> <div id="nome_id"> </div>
+
+div.nome_id -> <div class="nome_id"> </div>
+
+
+Configurações:
+
+Files: Aute Save - onFocusChange -> para salva automaticamente
+
+Word Wrape -> quebra o textos grandes na coluna que você escol
+word wrape collum -> escolher a coluna
+
+CTRL + p -> busca de arquivos
+
+CTRL + k + s -> lista de comandos
