@@ -26,7 +26,7 @@ Configurações:
 
 Files: Aute Save - onFocusChange -> para salva automaticamente
 
-Word Wrape -> quebra o textos grandes na coluna que você escol
+Word Wrape -> quebra os textos grandes na coluna que você escolher
 word wrape collum -> escolher a coluna
 
 CTRL + p -> busca de arquivos
