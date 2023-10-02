@@ -1,4 +1,4 @@
-# Desafio sobre git/github da DIO
+# Desafios DIO
 
 ## Links Úteis 
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
